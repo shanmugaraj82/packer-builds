@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Cloning our Git') {
       steps {
-        git 'https://github.com/YourGithubAccount/YourGithubRepository.git'
+        git 'https://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@github.com/shanmugaraj82/packer-builds.git'
       }
     }
 
